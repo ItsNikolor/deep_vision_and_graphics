@@ -79,3 +79,7 @@ debian/files
 homework01/tiny-imagenet-200
 homework01/tiny-imagenet-200.zip
 .vscode
+homework03/data
+homework03/runs
+homework03/wandb
+homework04/datasets
